@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <string name="chb1">Хлеб</string>
+    <string name="chb2">Гречка</string>
+    <string name="chb3">Сахар</string>
+    <string name="chb4">Чай</string>
+    <string name="chb5">Масло</string>
+    <string name="chb6">Бананы</string>
+</resources>
